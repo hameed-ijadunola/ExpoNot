@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37737893298",
+    "project_id": "exponot-59a66",
+    "storage_bucket": "exponot-59a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37737893298:android:4f7d55e51b7a7fd89768ab",
+        "android_client_info": {
+          "package_name": "com.hameedijadunola.exponot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJd13yNNdFJ_WIrVAuQJYiLB5xUMgzxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
